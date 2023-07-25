@@ -31,7 +31,7 @@ function Header() {
           </nav>
         </div>
       </div>
-      <h1 className="hero-title">I'm John Doe</h1>
+      <h1 className="hero-title">I'm Hadis Jamali</h1>
       <p className="hero-desc">Web Developer</p>
     </header>
   );
