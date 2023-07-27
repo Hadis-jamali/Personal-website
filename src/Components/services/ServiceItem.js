@@ -1,0 +1,19 @@
+function ServiceIteam(props) {
+  return (
+    <div className="col-4">
+      <div className="service-box">
+        <div className="service-icon">
+          <i className={props.serviceIcon}></i>
+        </div>
+        <div className="service-content">
+          <h3 className="service-title">{props.serviceTitle}</h3>
+          <p className="service-info">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem
+            fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+export default ServiceIteam;
