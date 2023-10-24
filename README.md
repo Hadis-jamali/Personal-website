@@ -1,10 +1,12 @@
 # Getting Started with Create React App
+![personal-page](https://github.com/Hadis-jamali/Personal-website/assets/132214893/e7073446-2bac-42be-9ad9-af43794ccb04)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
