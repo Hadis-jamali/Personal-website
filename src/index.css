@@ -58,3 +58,39 @@ section{
     height: auto;
 }
 
+@media only screen and (min-width: 700px) {
+    .card-project {
+      flex-wrap: wrap;
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    .about {
+      flex-wrap: wrap;
+    }
+    .Service {
+        flex-wrap: wrap;
+      }
+  
+    .name-title {
+      font-size: 2rem;
+    }
+    .card-project {
+      flex-wrap: wrap;
+      width: 100%;
+    }
+    .my-skills {
+      width: 80%;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    .my-skills {
+      width: 80%;
+    }
+  }
+  @media only screen and (min-width: 800px) and (max-width: 1200px) {
+    .my-skills {
+      width: 50%;
+    }
+  }
+  
