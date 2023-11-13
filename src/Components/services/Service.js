@@ -5,7 +5,7 @@ function Service() {
   let Services = [
     { serviceIcon: "bi bi-briefcase", serviceTitle: "WEB DESIGN" },
     { serviceIcon: "bi bi-card-checklist", serviceTitle: "WEB DEVELOPMENT" },
-    { serviceIcon: "bi bi-bar-chart", serviceTitle: "PHOTOGRAPHY" },
+    { serviceIcon: "bi bi-bar-chart", serviceTitle: "PHOTO" },
     { serviceIcon: "bi bi-binoculars", serviceTitle: "RESPONSIVE DESIGN" },
     { serviceIcon: "bi bi-brightness-high", serviceTitle: "GRAPHIC DESIGN" },
     { serviceIcon: "bi bi-calendar4-week", serviceTitle: "MARKETING SERVICES" },

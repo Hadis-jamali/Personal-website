@@ -4,27 +4,27 @@ function Header() {
     <header>
       <div className="navbar-container">
         <div className="container d-flex justify-content-between align-items-center">
-          <h2 className="logo">Portfolio</h2>
+          <h2 className="logo">Hadis</h2>
           <nav className="navbar">
             <ul className="d-flex">
-              <li>
+              <li className="nav-hover">
                 <a className="nav-link" href="#hero">
                   Home
                 </a>
               </li>
-              <li>
+              <li className="nav-hover">
                 <a className="nav-link" href="#about">
                   About
                 </a>
               </li>
-              <li>
+              <li className="nav-hover">
                 <a className="nav-link" href="#services">
                   Services
                 </a>
               </li>
-              <li>
+              <li className="nav-hover">
                 <a className="nav-link" href="#blog">
-                  Blog
+                  Projects
                 </a>
               </li>
             </ul>

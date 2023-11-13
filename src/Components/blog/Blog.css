@@ -1,26 +1,68 @@
-.blog-box{
-    box-shadow: 0 13px 8px -10px rgb(0 0 0 / 10%);
-    background: #fff;
-    border: 1px solid #c9c9c9;
+.head-project {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem;
+  font-size: 2rem;
 }
-.blog-content{
-    padding: 1rem;
+.card-project {
+  display: flex;
+  justify-content: center;
 }
-.blog-content .blog-title{
-    padding: 0.5rem 0;
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 1rem;
+  background-color: rgba(255, 255, 255, 0.979);
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-.blog-content .blog-desc{
-    color: #4e4e4e;
+.cards:hover {
+  border: 1px solid rgb(14, 12, 12);
 }
-.blog-footer{
-    padding: 10px 15px;
-    background: rgba(247, 247, 247, 1);
-    border-top: 1px solid #c9c9c9;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.img-project {
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
 }
-.post-author-img{
-    width: 40px;
-    border-radius: 50%;
+.title-project {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+  margin: 15px;
+}
+.btn-project {
+  color: white;
+  background-color: rgb(80, 80, 80);
+  border: 0;
+  border-radius: 5px;
+  padding: 13px;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+.btn-project:hover {
+  background-color: rgb(140, 189, 140);
+  color: black;
+  cursor: pointer;
+}
+.div-cv {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+.btn-cv {
+  background-color: rgb(80, 80, 80);
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 15px;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.btn-cv:hover {
+  background-color: rgb(140, 189, 140);
+  color: black;
 }
