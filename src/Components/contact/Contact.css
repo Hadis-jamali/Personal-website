@@ -1,0 +1,55 @@
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+.contact-form {
+  width: 300px;
+  margin: 1rem;
+}
+.input-form {
+  width: 100%;
+  margin: 10px;
+  height: 30px;
+  border: 0;
+  border-radius: 3px;
+}
+.form-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 10px;
+}
+#comment {
+  width: 100%;
+  border: 0;
+  border-radius: 5px;
+}
+.btn-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-contactme {
+  margin: 1rem;
+  padding: 10px;
+  border: 0;
+  border-radius: 5px;
+  background-color: rgb(80, 80, 80);
+  color: #f5f5f5;
+  font-size: 15px;
+  font-weight: bold;
+}
+.btn-contactme:hover {
+  background-color: rgb(140, 189, 140);
+  color: black;
+}

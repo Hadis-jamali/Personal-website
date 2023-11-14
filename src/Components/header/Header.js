@@ -24,7 +24,7 @@ function Header() {
               </li>
               <li className="nav-hover">
                 <a className="nav-link" href="#section4">
-                  Project
+                  Contact
                 </a>
               </li>
             </ul>
