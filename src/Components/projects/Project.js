@@ -1,4 +1,4 @@
-import "./Blog.css";
+import "./Project.css";
 import codeImage from "../../assets/images/code.png";
 import codeThreeImage from "../../assets/images/codeThree.png";
 import codeTwoImage from "../../assets/images/codeTwo.png";
@@ -7,7 +7,7 @@ import codeFiveImage from "../../assets/images/codeFive.png";
 import codeSixImage from "../../assets/images/codeSix.png";
 
 
-function Blog() {
+function Project() {
  
   return (
     <section id="section3" className="pro">
@@ -66,4 +66,4 @@ function Blog() {
     </section>
   );
 }
-export default Blog;
+export default Project;
