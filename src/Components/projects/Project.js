@@ -6,9 +6,7 @@ import codeFourImage from "../../assets/images/codeFour.png";
 import codeFiveImage from "../../assets/images/codeFive.png";
 import codeSixImage from "../../assets/images/codeSix.png";
 
-
 function Project() {
- 
   return (
     <section id="section3" className="pro">
       <h2 className="head-project">My Projects</h2>
@@ -45,15 +43,15 @@ function Project() {
         </div>
         <div className="cards">
           <img className="img-project" src={codeFiveImage} />
-          <p className="title-project">Favorite Movie list</p>
-          <a href="https://github.com/Hadis-jamali/Favorite-Movie-List">
+          <p className="title-project">Memory Game</p>
+          <a href="https://github.com/Hadis-jamali/Memory-game">
             <button className="btn-project">Click here</button>
           </a>
         </div>
         <div className="cards">
           <img className="img-project" src={codeSixImage} />
-          <p className="title-project">Online Shop</p>
-          <a href="https://github.com/Hadis-jamali/Online-Shop">
+          <p className="title-project">Kraftvaerk React Project</p>
+          <a href="https://github.com/Hadis-jamali/Kraftvaerk-react-project?tab=readme-ov-file">
             <button className="btn-project">Click here</button>
           </a>
         </div>
